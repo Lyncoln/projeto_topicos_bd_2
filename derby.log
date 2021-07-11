@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jul 09 19:32:32 BRT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-017a-8d66-a36e-000004f84e08 
+on database directory /home/lyncoln/projeto_topicos_bd_2/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/home/lyncoln/spark/jars/derby-10.12.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.11+9-Ubuntu-0ubuntu2.20.04
+user.dir=/home/lyncoln/projeto_topicos_bd_2
+os.name=Linux
+os.arch=amd64
+os.version=5.8.0-59-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

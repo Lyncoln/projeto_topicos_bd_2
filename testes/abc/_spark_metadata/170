@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/lyncoln/projeto_topicos_bd_2/testes/abc/part-00000-deffcc0e-f91b-4720-9aca-e714384beb49-c000.csv","size":456,"isDir":false,"modificationTime":1626399971572,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/lyncoln/projeto_topicos_bd_2/testes/abc/part-00001-45e23451-18ad-4566-83cd-fcc30a136ef0-c000.csv","size":455,"isDir":false,"modificationTime":1626399971572,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/lyncoln/projeto_topicos_bd_2/testes/abc/part-00002-6b4cc418-dbcd-4430-b157-643dbeac57ab-c000.csv","size":432,"isDir":false,"modificationTime":1626399971572,"blockReplication":1,"blockSize":33554432,"action":"add"}
